@@ -4,55 +4,53 @@ This project is a Spotify Clone built using the MERN stack. It allows users to m
 
 Features
 
-Play and pause tracks
+⭐ Play and pause tracks
 
-Manage playlists
+⭐ Manage playlists
 
-Control volume
+⭐ Control volume
 
 Prerequisites
 
 Ensure you have the following installed:
 
-Git
+1. Git
 
-A Spotify Premium Account (required for API access)
+2. A Spotify Premium Account (required for API access)
 
 Steps to Run Locally
 
 Follow these steps to set up and run the Spotify Clone on your local machine:
 
-Clone the repository
+1. Clone the repository
 
-git clone "https://github.com/Aarthi-Raju/Spotify-Clone-MERN.git"
+==> git clone "https://github.com/Aarthi-Raju/Spotify-Clone-MERN.git"
 
-Navigate to the project folder
+2. Navigate to the project folder
 
-cd Spotify-Clone-MERN
+==> cd Spotify-Clone-MERN
 
-Open the project in VS Code
+3. Open the project in VS Code
 
-Use the command:
+==> Use the command: code .
 
-code .
+==> Or manually open the folder in Visual Studio Code.
 
-Or manually open the folder in Visual Studio Code.
+4. Install dependencies
 
-Install dependencies
+==> npm install
 
-npm install
+5. Start the development server
 
-Start the development server
+==> npm start
 
-npm start
-
-Ensure you have a Spotify Premium Account
+***** Ensure you have a Spotify Premium Account ****
 
 The app requires a Spotify Premium subscription to access music through the Spotify API.
 
 Additional Notes
 
-The frontend runs on http://localhost:3000.
+🎉 The frontend runs on http://localhost:3000.
 
 Follow Spotify API documentation for authentication setup.
 
