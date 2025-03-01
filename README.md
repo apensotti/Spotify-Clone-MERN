@@ -54,7 +54,4 @@ Additional Notes
 
 Follow Spotify API documentation for authentication setup.
 
-Contributing
-
-If you wish to contribute, fork the repository, create a new branch, and submit a pull request.
 
